@@ -145,6 +145,10 @@ git push
 ![Фото страницы](images/github3.png)
 ![Фото страницы](images/github4.png)
 
+### Что делать, если автоматическое тестирование не работает
+
+Перезапустите тесты, нажав на красный крестик - details - Re-run jobs справа сверху - Re-run all jobs. Перезапускайте только в том случае, если видите надпись "This check failed"
+
 ### Полезные команды для Git
 
 <span style="color:orange">$ git</span> <span style="color:purple">опции</span> <span style="color:blue">команда</span> <span style="color:brown">аргументы</span>
