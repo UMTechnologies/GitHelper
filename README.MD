@@ -130,7 +130,22 @@ git push
 ![Фото страницы](images/classroom2.png)
 ![Фото страницы](images/classroom3.png)
 
-#### Полезные команды для Git
+### Как предоставить доступ семинаристу для просмотра Вашего кода
+
+На странице GitHub открываем вкладку **Pull Requests**
+
+Затем выбираем **Feedback**
+
+И в левой части выбираем **Reviewers**, нажав на шестерёнку
+
+Наш семинарист **Байдин Георгий Сергеевич** - аккаунт в GitHub - **MacMaster256**
+
+![Фото страницы](images/github1.png)
+![Фото страницы](images/github2.png)
+![Фото страницы](images/github3.png)
+![Фото страницы](images/github4.png)
+
+### Полезные команды для Git
 
 <span style="color:orange">$ git</span> <span style="color:purple">опции</span> <span style="color:blue">команда</span> <span style="color:brown">аргументы</span>
 
